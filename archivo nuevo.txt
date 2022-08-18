@@ -1,1 +1,1 @@
-modifiqué este archivo 1 vez
+modifiqué este archivo desde rama 2 para ver si hay conflict
